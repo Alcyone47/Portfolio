@@ -1,19 +1,22 @@
+@import "../../vars.css";
+
 .navbar {
   position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 20px;
+  padding-top: 41px;
   z-index: 2;
   margin: 0 10%;
 }
 
 .title {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
 }
+
 
 .menuBtn {
   display: none;
@@ -30,18 +33,9 @@
 }
 
 .menuItems a {
-  font-size: 15px;
+  font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
-  display: flex;
-  height: 100%;
-  align-items: center;
-  min-width:max-content;
-}
-
-.menuItems button{
-  min-width: 150px;
-  background-color: #FD6F00;
 }
 
 @media screen and (max-width: 830px) {
