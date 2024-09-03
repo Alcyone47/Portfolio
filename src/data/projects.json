@@ -1,16 +1,16 @@
 [
   {
-    "title": "Project A",
+    "title": "Proffernet",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "",
+    "skills": ["React", "Supabase", "Tailwind"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "A* Pathfinder",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a web based app that takes real world map data and calculates the shortest route between two points using the A-star algorithm.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
