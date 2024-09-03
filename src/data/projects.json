@@ -2,25 +2,17 @@
   {
     "title": "Proffernet",
     "imageSrc": "projects/project.png",
-    "description": "",
+    "description": "A social media web application that will connect the ones seeking technical help for their projects and the ones looking to contribute to projects",
     "skills": ["React", "Supabase", "Tailwind"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Alcyone47/Demo1/tree/main/proffernet"
   },
   {
     "title": "A* Pathfinder",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/a-star.png",
     "description": "This is a web based app that takes real world map data and calculates the shortest route between two points using the A-star algorithm.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React", "openmapsAPI", "Node", "Sass"],
+    "demo": "https://a-star-pathfinder-suj5.vercel.app/",
+    "source": "https://github.com/Alcyone47/A-star-pathfinder/tree/main/Pathfinder"
   }
 ]
