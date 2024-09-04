@@ -4,7 +4,7 @@
     "imageSrc": "projects/project.png",
     "description": "A social media web application that will connect the ones seeking technical help for their projects and the ones looking to contribute to projects",
     "skills": ["React", "Supabase", "Tailwind"],
-    "demo": "https://www.example.com",
+    "demo": "",
     "source": "https://github.com/Alcyone47/Demo1/tree/main/proffernet"
   },
   {
